@@ -1,9 +1,3 @@
-<div id="header">
-  <img src="https://media.giphy.com/media/a7ZzNhPFM8mnQJqBWw/giphy.gif" width="600"/>
-</div>
-
----
-
 ###	:wave: About Me:
 My name is Georgi Ignatov and I'm from Bulgaria.
 - :mortar_board: I'm a third year student at Technical University of Sofia. My major is Industrial Information Technology.
