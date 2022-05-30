@@ -2,7 +2,7 @@
 My name is Georgi Ignatov and I'm from Bulgaria.
 - :mortar_board: I'm a third year student at Technical University of Sofia. My major is Industrial Information Technology.
 - :computer: I'm currently looking for an internship.
-- :zap: In my free time, I enjoy playing games, working out, reading and improving my skills.
+- :zap: In my free time, I enjoy playing games, working out, traveling, reading and improving my skills.
 
 ---
 
