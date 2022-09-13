@@ -1,7 +1,7 @@
 ###	:wave: About Me:
 My name is Georgi Ignatov and I'm from Bulgaria.
-- :mortar_board: I'm a third year student at Technical University of Sofia. My major is Industrial Information Technology.
-- :computer: I'm currently looking for an internship.
+- :mortar_board: I'm a fourth year student at Technical University of Sofia. My major is Industrial Information Technology.
+- :computer: I'm a Mobile Development Intern at MentorMate.
 - :zap: In my free time, I enjoy playing games, working out, traveling and reading.
 
 ---
